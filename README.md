@@ -1,8 +1,5 @@
 # CliProject
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/cli_project`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Stocks cli project.  Users can look up stock prices with a symbol.  This uses Yahoo Fainance API.  
 
 ## Installation
 
@@ -22,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+The user should run ruby bin/run.rb from the command line in their terminal.  They will then be presented with instructions to follow.  The user should know ahead of time their stock symbol choice.
 
 ## Development
 
